@@ -20,5 +20,5 @@
 
 - [AddAfter](https://stackoverflow.com/questions/623635/a-bittorrent-client-completely-written-in-c)
 
-![]("C:\Users\victo\Downloads\𝙹𝚞𝚋𝚎𝚒 𝚔𝚒𝚋𝚊𝚐𝚊𝚖𝚒 _ Samurai anime, Samurai art, Anime drawings sketches.jpg")
+![𝙹𝚞𝚋𝚎𝚒 𝚔𝚒𝚋𝚊𝚐𝚊𝚖𝚒 _ Samurai anime, Samurai art, Anime drawings sketches](https://user-images.githubusercontent.com/86987590/200336812-bd72c850-d7b6-48c2-8296-20e84b3a8240.jpg)
 
